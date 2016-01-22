@@ -65,7 +65,10 @@ body {
   text-decoration: none;
 
 }
+.vertical-spacer {
+  height: 10em;
 
+}
 /* Performers */
 .performers {
  border-radius:50%;
