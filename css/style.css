@@ -102,3 +102,7 @@ body {
  width:150px;
  height:150px;
 }
+#text {
+  font-size:14px;
+ text-align:justify;
+}
