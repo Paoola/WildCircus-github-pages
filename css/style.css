@@ -77,6 +77,7 @@ body {
     -o-transform: rotateZ(0deg);
     -ms-transform: rotateZ(0deg);
     color:red;
+    font-size:30px;
 }
 
 .site__title:hover > .title--icon {
