@@ -73,7 +73,11 @@ body {
 
 }
 /* Social icons */
+.background {
 
+ width:1350px;
+ height:650px;
+}
 
 /* Performers */
 .site__title > .title--icon {
