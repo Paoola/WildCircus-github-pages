@@ -88,3 +88,11 @@ box-shadow:3px 3px 5px black;
   font-size:14px;
  text-align:justify;
 }
+/* img galerie */
+.title {
+  color:red;
+  font-size:14px;
+ text-align:center;
+   text-decoration:none;
+
+}
