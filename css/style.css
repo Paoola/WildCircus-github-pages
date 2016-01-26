@@ -14,11 +14,6 @@ body {
   text-align: center;
   color: white;
 }
-.lead h1 {
-  font-size: 72px;
-  text-shadow: 0 0 20px rgba(0, 0, 0, .8);
-  font-weight: normal;
-}
 
 
 /* navbar */
@@ -57,13 +52,13 @@ body {
 #footer {
   background-color: #222;
   color: #aaaaaa;
-  
+
   padding-top: 3em;
   padding-bottom: 3em;
 }
 
 #footer a {
-  color: #cccccc;
+  color:#15e5ed;
 }
 
 #footer a:hover {
