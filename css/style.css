@@ -1,10 +1,24 @@
 body {
-  background-color: url("../images/grid.jpg");
+  background-color: url ("../images/grid.jpg");
+
   font-family: 'Convergence';
  }
 
 
 
+.wrapper {
+  background-image: url('../images/grid.jpg');
+  height: 650px;
+  background-size: cover;
+  padding-top: 150px;
+  text-align: center;
+  color: white;
+}
+.lead h1 {
+  font-size: 72px;
+  text-shadow: 0 0 20px rgba(0, 0, 0, .8);
+  font-weight: normal;
+}
 
 
 /* navbar */
@@ -40,17 +54,16 @@ body {
   height:950px;
 }  
 /* Footer */
-
 #footer {
   background-color: #222;
   color: #aaaaaa;
+  
   padding-top: 3em;
   padding-bottom: 3em;
 }
 
 #footer a {
-  color: red;
-  text-align:center;
+  color: #cccccc;
 }
 
 #footer a:hover {
@@ -59,13 +72,10 @@ body {
 
 .social a {
   font-size: 24px;
-  color:red;
-
 }
 
 .social a:hover {
   text-decoration: none;
-
 }
 .vertical-spacer {
   height: 10em;
