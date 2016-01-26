@@ -33,6 +33,7 @@ body {
 .navbar-transparent .navbar-brand:focus {
   color: white;
 }
+
 /* Carousel */
 .carousel img{
   width:1500px;
