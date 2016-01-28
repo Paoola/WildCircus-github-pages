@@ -42,7 +42,32 @@ body {
 .navbar-transparent .navbar-brand:focus {
   color: white;
 }
+/*Wrapper*/
+video#bgvid {
 
+  position: fixed; right: 0; bottom: 0;
+
+  min-width: 100%; min-height: 100%;
+
+  width: auto; height:auto; z-index: -100;
+
+  background: url(mp4.jpg) no-repeat;
+
+  background-size: cover;
+
+}
+#show { 
+  font-family: 'Convergence';
+  font-weight:100; 
+  background: rgba(0,0,0,0,6);
+  color: white;
+  padding: 2rem;
+  width: 33%;
+  margin:2rem;
+  float: center;
+
+  font-size: 1.2rem;
+}
 /* Carousel */
 .carousel img{
   width:1500px;
@@ -50,7 +75,7 @@ body {
 }  
 /* Footer */
 #footer {
-  background-color: #222;
+  background-color: rgba(0,0,0,0,6);
   color: #aaaaaa;
 
   padding-top: 3em;
