@@ -91,7 +91,7 @@ video#bgvid {
 }  
 /* Footer */
 #footer1 {
-  background-color: rgba(0, 0, 0, 0.2);
+  background-color:  #222;
   color: #aaaaaa;
 
   padding-top: 3em;
