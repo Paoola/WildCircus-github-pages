@@ -17,6 +17,10 @@ h1 {
     margin:4rem;
 }
 
+h2 {
+color:black;
+}
+
 
 .wrapper {
   background-image: url('../images/grid.jpg');
