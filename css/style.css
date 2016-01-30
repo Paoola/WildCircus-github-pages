@@ -1,6 +1,6 @@
 body {
   background-color: url ("../images/grid.jpg");
-  color:white;
+  color:black;
   font-family: 'Convergence';
  }
 
@@ -72,6 +72,11 @@ video#bgvid {
   background-size: cover;
 
 }
+
+.article {
+  background-color:#f2f2f2;
+ 
+} 
 #show { 
   font-family: 'Convergence';
   font-weight:100; 
